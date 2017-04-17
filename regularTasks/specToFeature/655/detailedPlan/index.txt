@@ -5,15 +5,15 @@
 TODO:
 -- убедиться, что "- assigned to individual subscriber" (1h)
 
-2 сортировка тарифов
-TODO:
--- Check order in scope of spock test (4h)
-
-3 Вывод на ui и выбор текущего тарифа (markup applying)
+2 Вывод на ui и выбор текущего тарифа (markup applying)
 TODO:
 -- check markup availability (ui task in open status)
 -- check localization messages availability
 -- apply markup (4h)
+
+3 сортировка тарифов
+TODO:
+-- Check order in scope of spock test (4h)
 
 4 ajax call to update activation buttons
 TODO:

@@ -3,11 +3,17 @@ It should be possible to apply Tariff selection on UI for all Services displayed
 Имеется в виду, что в дропдауне должны быть тарифы, которые доступны для активации с показанными на
 текущей странице сервисами?
 
+Answer: Na vseh PDP dolzhen bit tariff dropdown
+Resolved
+
 -----------------------------
 
 BR3:
 b) For logged in Corporate Subscriber, system displays user's current Corporate Tariff without checking on the Service-to-Tariff association.
 Что такое корпоративный тарифный план?
+
+Answer: correct
+Resolved
 
 ------------------------------
 
@@ -18,11 +24,17 @@ Except for the default tariff, in all other cases Corporate Subscribers will see
  тоже самое - он может видеть свой текущий тариф плюс доступные с текущими вариантами? Отличай в том, что
  у корпоративного пользователя может быть корпоративный тариф, а у индивидуала нет, как я понимаю.
 
+Answer: correct
+Resolved
+
 -------------------------------
 
 AC3:
 Не понятно как этот AC связан с моей сторей. Типа при рефреше должны получить актуальную информацию с
 сервера?
+
+Answer: correct
+Resolved
 
 -------------------------------
 
@@ -30,6 +42,8 @@ AC5:
 AC5 (change user's current Tariff to another Tariff from the list):
 Не понятно почему при выборе другого тарифа из дропдауна
 I am not able to activate the Service / Service Variant:
+
+Answer: ???
 
 --------------------------------
 
